@@ -133,6 +133,7 @@ a{
 
 .carrito-title{
     font-size: 50px;
+    color: var(--white);
 }
 table {
     margin: 0px auto;
